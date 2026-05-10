@@ -1,8 +1,7 @@
-1.pandas
-2.numpy
-3.scikit-learn
-4.seaborn
-5.Matplotlib
-6.imblance-learn
-7.pickle
-8.streamlit
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib
+imbalanced-learn
+streamlit
